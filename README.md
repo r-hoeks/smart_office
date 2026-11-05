@@ -1,4 +1,4 @@
-# README: SmartOffice Case - Day in Data, Tilburg University
+# README: SmartOffice Case 
 
 Welcome to the SmartOffice project by Capgemini, where we aim to enhance the office experience through data collection, processing, and analysis. Using a network of sensors at our headquarters in Utrecht (Leidsche Rijn), we gather data on space and desk occupancy, as well as environmental comfort levels (CO2, temperature, lighting, humidity). This data allows us to make informed decisions that improve office management, sustainability, and operational efficiency.
 
